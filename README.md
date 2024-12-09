@@ -1,4 +1,6 @@
-This is the first version of Return of the King Manual for Archipelago NOW PLAYABLE!!! 
+Return of the King Manual for Archipelago NOW PLAYABLE!!! 
+
+PLEASE GO TO VERSION 1.5 IN THE RELEASES TAB FOR THE MOST UP TO DATE AND LEAST BROKEN VERSION!!!! 
 
 
 *****NOTE*****
