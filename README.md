@@ -1,6 +1,5 @@
 Return of the King Manual for Archipelago NOW PLAYABLE!!! 
 
-PLEASE GO TO VERSION 1.6 IN THE RELEASES TAB FOR THE MOST UP TO DATE AND LEAST BROKEN VERSION!!!! 
 
 
 *****NOTE*****
